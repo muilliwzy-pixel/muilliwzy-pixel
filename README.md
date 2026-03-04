@@ -1,27 +1,23 @@
-# 👋 สวัสดีครับ, ผมคือ Paweenwat luanguthai
+# 💀 Paweenwat luanguthai
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;XAMPP+User;RTX+5060+Ti+Power" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/oEI9uBYSzZriVFGDv0/giphy.gif" alt="Digital Rain Banner" width="100%" height="150px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=./Cyber_Security_Enthusiast;>_Penetration_Tester;RTX_5060_Ti_Powered_AI" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 เกี่ยวกับผม (About Me)
+## 🕵️‍♂️ /System_Profile
 
-ผมเป็นนักพัฒนาเว็บที่หลงใหลในการสร้างสรรค์สิ่งใหม่ๆ ด้วยพลังของโค้ดและ AI
-
-* **🛠️ กำลังมุ่งเน้น:** พัฒนา Web Application ด้วย **PHP** และ **MySQL** บนระบบ **XAMPP**
-* **💻 ขุมพลังส่วนตัว:** ขับเคลื่อนด้วยการ์ดจอ **NVIDIA GeForce RTX 5060 Ti** ⚡
-
----
-
-## 📊 สถิติ GitHub ของผม (My Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muilliwzy-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muilliwzy-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muilliwzy-pixel&color=39FF14&style=flat-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+```bash
+#  _INFO
+cat <<EOF
+Status: active
+Focus: Ethical_Hacking | Web_Sec | AI_Sec
+System: XAMPP | PHP | MySQL
+HW_Acceleration: NVIDIA_GeForce_RTX_5060_Ti
+Location: muilliwzy-pixel.local
+EOF
